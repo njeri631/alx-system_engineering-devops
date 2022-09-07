@@ -1,0 +1,6 @@
+#!/bin/bash
+tail -1 iacta >> iacta
+
+Footer
+
+© 2022 GitHub, Inc.
